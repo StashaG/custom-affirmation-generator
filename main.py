@@ -18,7 +18,7 @@ elif dayOfTheWeek == "Monday" or dayOfTheWeek == "monday":
 elif dayOfTheWeek == "Wednesday" or dayOfTheWeek == "wednesday":
     print("It's", dayOfTheWeek, " Hump day! Week is halfway through! Press through. You got this 💪🏾")
 else:
-    print("Yes are going to have an Amazing week! Remember you can do hard things!")
+    print("You are going to have an Amazing week! Remember you can do hard things!")
 
 
 
